@@ -2,7 +2,7 @@
 
 * **Student Name:** Dariga P M
 * **Register Number:** 1965260176
-* **Course Code:** CSA0707
+* **Course Code:** CSA0921
 * **Operating System:** Windows 11 / Ubuntu
 * **Python Version:** Python 3.14
 
